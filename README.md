@@ -5,7 +5,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Model-LinearRegression-yellow)
 ![Status](https://img.shields.io/badge/Deployment-Live-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit.app-brightgreen?logo=streamlit)](https://customer-spending-prediction-linreg-gd-ols-<your-username>.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit.app-brightgreen?logo=streamlit)](https://customer-spending-prediction-linreg-gd-ols-rajesh-arigala.streamlit.app)
 
 ---
 
