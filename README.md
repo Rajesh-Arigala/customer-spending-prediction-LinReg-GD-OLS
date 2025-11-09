@@ -13,6 +13,10 @@
 
 ---
 
+![App Preview](project_screenshot.png)
+
+---
+
 ### 🚀 End-to-End Machine Learning Project  
 A complete ML workflow — from data preprocessing and model training to deployment using **Streamlit Cloud**.  
 This app predicts a customer’s **Yearly Amount Spent** based on behavioral and membership features.
